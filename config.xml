@@ -9,6 +9,7 @@
     <icon src="www/bibapp-icon.png" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
+    <preference name="Orientation" value="portrait" />
     <platform name="android">
     </platform>
     <platform name="ios">
